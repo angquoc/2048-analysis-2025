@@ -14,4 +14,4 @@ Phân tích quy luật/logic 2048, chỉ ra khó khăn của người chơi và 
 Phân tích logic game, thống kê đơn giản, viết báo cáo.
 
 ## Liên hệ
-nguyenthianhngocnc2005@gmail.com
+[angquoc](https://github.com/angquoc)
