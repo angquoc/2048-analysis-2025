@@ -8,7 +8,7 @@ Phân tích quy luật và logic vận hành của game 2048; tìm ra điểm kh
 - Đề xuất cải tiến.
 
 ## Kết quả chính
-- Báo cáo phân tích: 
+- Báo cáo phân tích: [report-report.pdf](report-report.pdf)
 
 ## Kỹ năng đạt được
 - Phân tích logic game.
